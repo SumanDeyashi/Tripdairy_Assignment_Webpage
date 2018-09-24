@@ -1,0 +1,48 @@
+
+h1
+{
+ text-align: center;  
+ font-family:Lucida Sans Unicode;
+}
+
+.search
+{
+	width: 25%;
+	padding: 5px;
+
+}
+
+::placeholder 
+{ 
+    color: #BDC3C7  ;
+}
+
+.comtodos
+{
+	margin-left: -180px;
+}	
+
+
+.filmvideo
+{
+	margin-left: -170px;
+}
+
+.paybill
+{
+	margin-left: -270px;
+}
+
+.walkdog
+{
+	margin-left: -240px;
+}
+
+.button1
+{
+	padding: 5px;
+	background-color:#3498DB;
+	width: 26.1%;
+	color: white;
+	font-family:Lucida Sans Unicode;
+}
