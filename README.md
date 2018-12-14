@@ -2,6 +2,7 @@
 # Description:
 
 Company(Tripdairy)_Assignment.
+
 Download all files(style.css, trip_dairy.html) put it in one folder.
 After that run trip_dairy.html file on your favorite browser. 
 
