@@ -3,8 +3,8 @@
 
 Company(Aerodesign Solutions Pvt Ltd)_Internship_Project.
 
-Download all files(style.css, trip_dairy.html) put it in one folder.
-After that run trip_dairy.html file on your favorite browser. 
+Download all files(style.css, index.html) put it in one folder.
+After that run index.html file on your favorite browser. 
 
 Technology Used: HTML/HTML5, CSS/CSS3. 
 
